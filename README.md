@@ -1,4 +1,4 @@
-![Mouse-i738_Tumor_volume_Timepoint_pandas](https://user-images.githubusercontent.com/107362585/194479210-30532d7d-6663-43d5-ad88-57a948a568d3.png)
+
 # Matplotlib--Pymaceuticals-Inc-
 A new pharmaceutical company that specializes in anti-cancer pharmaceuticals. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer. This dataset is a complete the pharmaceutical data from their most recent animal study. In this study, 249 mice identified with SCC tumor growth were treated with a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. This repository applied python Matplolib to visualise, analyse and draw insight from the dataset.
 
@@ -124,5 +124,7 @@ Analysis
 A total of 249 mice was analysed from the analysis,drug Regimen Capomulin has the highest number of mice 230 while Propriva was the lowest  with 156. Also aalysing the gender , the pie chart shows that there are 50.7% male and 49.3% female. A bar graph was used to analyse  Ramicane and Campomulin and it seems to be more effective in reducing the tumor.  Using the maplot we calculated the Correlation and regression analysis and it  shows that there is a strong positive relationship between tumor volume and mouse weight which means that an Increase in weight means increase in tumor volume. From the analysis it is evedent that the correlation  is 0.84.
 
 
+
+![Mouse-i738_Tumor_volume_Timepoint_pandas](https://user-images.githubusercontent.com/107362585/194479210-30532d7d-6663-43d5-ad88-57a948a568d3.png)
 ![Pan_mice_per_treat](https://user-images.githubusercontent.com/107362585/194475254-6c945138-407f-45a7-85a4-2dae3d461c16.png)
 ![pi_pandas](https://user-images.githubusercontent.com/107362585/194475264-54d0fdc6-c458-4679-a1be-0394f99e0c1b.png)
