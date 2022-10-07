@@ -120,12 +120,7 @@ Plot the linear regression model on top of the previous scatter plot.
 
 Analysis
 
-A total of 249 mice was analysed. Drug Regimen Capomulin has the highest number of mice 230 while Propriva has the lowest number of mice of 156. Looking at the gender of all mice, the pie chart shows that there are 50.7% male and 49.3% female. The bar graph shows that. Ramicane and Campomulin seems to be the most effective in reducing the tumor. This is evendince has both drug regimen have the lowest mean, median, variance and standard deviation the ones that had the highest amount of timepoints. Also evidence in the boxplot.
-
-Correlation and regression analysis, shows that there is a strong positive relationship between tumor volume and mouse weight. Increase in weight means increase in tumor volume. The correlation between this factors is 0.84. An R-squared value of approximately 0.71, means that 71% of the model fits the data. As high R-squared means small difference between observed data and the fitted value.
-
-
-
+A total of 249 mice was analysed from the analysis,drug Regimen Capomulin has the highest number of mice 230 while Propriva was the lowest  with 156. Also aalysing the gender , the pie chart shows that there are 50.7% male and 49.3% female. A bar graph was used to analyse  Ramicane and Campomulin and it seems to be more effective in reducing the tumor.  Using the maplot we calculated the Correlation and regression analysis and it  shows that there is a strong positive relationship between tumor volume and mouse weight which means that an Increase in weight means increase in tumor volume. From the analysis it is evedent that the correlation  is 0.84.
 
 
 ![Pan_mice_per_treat](https://user-images.githubusercontent.com/107362585/194475254-6c945138-407f-45a7-85a4-2dae3d461c16.png)
